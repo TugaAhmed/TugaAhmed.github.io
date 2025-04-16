@@ -19,12 +19,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Education
 ======
 🎓 **Master’s degree in Computer Engineering**  
-*Ankara Yıldırım Beyazıt University - Turkey*
-- GPA: 4.0/4.0
+*  Ankara Yıldırım Beyazıt University - Turkey* - GPA: 4.0/4.0
 
 🎓 **B.Sc Honours in Software Engineering**  
-*Al-Neelain University - Sudan*
-- CGPA 90.15 / 100
+*  Al-Neelain University - Sudan* - CGPA 90.15 / 100
 
 
 

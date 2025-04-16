@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong passion for computational neuroscience and AI. Her research interests lie at the intersection of machine learning and neuroscience. She is particularly interested in exploring how mathematical models and machine learning techniques can be used to understand the brain, and how insights gained from neuroscience can be applied to develop more adaptive and intelligent systems.
-After earning her bachelor’s degree in Software Engineering, she worked in the software development industry for over five years as a Python/ERP developer. Currently, she is pursuing her master’s degree in Computer Engineering. For her thesis, she is working on assessing cognitive load in virtual reality (VR) cognitive training games using machine learning, under the supervision of Prof. Abdullah Bulbul.
+Tuga Yousif is a Sudanese MSc student in Computer Engineering. Her research interests lie at the intersection of machine learning and neuroscience. After earning her bachelor’s degree in Software Engineering, she worked in the software development industry for over five years as a Python/ERP developer. Currently, she is pursuing her master’s degree in Computer Engineering. For her thesis, she is working with Prof. Abdullah Bulbul on assessing cognitive load in virtual reality (VR) cognitive training games using machine learning
 
 
 <!-- A data-driven personal website
@@ -19,23 +18,32 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Education
 ======
-1. 🎓 **B.Sc Honours in Software Engineering**  
-- Al-Neelain University  
+🎓 **Master’s degree in Computer Engineering**
+- Ankara Yıldırım Beyazıt University - Turkey
+- GPA: 4.0/4.0
+
+🎓 **B.Sc Honours in Software Engineering**  
+- Al-Neelain University - Sudan
 - CGPA 90.15 / 100
-- Thesis Title: Improving Recommendation Systems Accuracy Using Singular Value Decomposition (SVD)  
-- Supervisor: [Osman Alnor Suliman Alnor](https://www.neelain.edu.sd/college/Computer/StaffDetails/558)
 
 
-1. 🎓 **Master’s degree in Computer Engineering**
 
 Work Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Max Planck Institute for Biological Cybernetics  ,  Germany**
+Research Intern |  July, 2023 - September , 2023
+- Implemented Actor-Critic architecture emulating rat decision-making in spatial navigation
+- Enhanced decision-making through Hierarchical Reinforcement Learning.
+- Developed a complete, explanatory code of proposed methods.
+- Visualized and plotted outcomes of proposed methods.
+- Produced detailed explanations of the implemented algorithms and code in a README file
+
+**Quantum Space  ,  Remote**
+Senior Software Developer | March, 2021 - September ,2022
+- Solved complex performance and other critical problems
+- Worked on Modules testing and code cleaning
+- Developed ERP and POS applications
+- Used statistics and JS to generate smart/customizable charts
 
 
 <!-- Site-wide configuration

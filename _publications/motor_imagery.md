@@ -11,12 +11,9 @@ venue: 'Neuromatch 5.0 Conference'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-<a href="https://doi.org/10.57736/nmc-ae69-494c" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 4px;">DOI</a>
 
-<a href="https://doi.org/10.1016/j.neuron.2016.12.011" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: #566883; color: white; text-decoration: none; border-radius: 4px;">DOI</a>
+<a href="https://doi.org/10.57736/nmc-ae69-494c" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: #566883; color: white; text-decoration: none; border-radius: 4px;">DOI</a>
 
-
-[DOI](https://doi.org/10.57736/nmc-ae69-494c)
 
 
 **Abstract**  

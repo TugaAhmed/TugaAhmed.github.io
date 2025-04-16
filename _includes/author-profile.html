@@ -27,6 +27,13 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
+
+      <!-- new -->
+      {% if author.cv %}
+      <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-lines icon-pad-right"></i>CV</a></li>
+      {% endif %}
+
+      
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
@@ -63,13 +70,7 @@
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus icon-pad-right"></i>Scopus</a></li>
       {% endif %}
 
-      <!-- new -->
-      {% if author.cv %}
-      <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-lines icon-pad-right"></i>CV</a></li>
-    {% endif %}
-
-    
-
+      
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}

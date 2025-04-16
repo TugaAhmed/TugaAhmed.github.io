@@ -1,5 +1,5 @@
 ---
-title: "Motor Imagery ECoG Signal Classification With Optimal Selection Of Minimum Electrode"
+title: "Motor Imagery ECoG Signal Classification With Optimal Selection Of Minimum Electrodes"
 collection: publications
 category: presentations
 permalink: https://doi.org/10.57736/nmc-ae69-494c

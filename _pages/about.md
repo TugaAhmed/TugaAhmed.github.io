@@ -19,16 +19,16 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Education
 ======
 🎓 **Master’s degree in Computer Engineering**  
-*  Ankara Yıldırım Beyazıt University - Turkey* - GPA: 4.0/4.0
+*  Ankara Yıldırım Beyazıt University - Turkey*  - GPA: 4.0/4.0
 
 🎓 **B.Sc Honours in Software Engineering**  
-*  Al-Neelain University - Sudan* - CGPA 90.15 / 100
+*  Al-Neelain University - Sudan*  - CGPA 90.15 / 100
 
 
 
 Work Experience
 ======
-**Max Planck Institute for Biological Cybernetics - Germany**
+**Max Planck Institute for Biological Cybernetics - Germany**  
 *Research Intern |  July, 2023 - September , 2023*
 - Implemented Actor-Critic architecture emulating rat decision-making in spatial navigation
 - Enhanced decision-making through Hierarchical Reinforcement Learning.

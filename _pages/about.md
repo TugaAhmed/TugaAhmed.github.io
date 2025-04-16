@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Tuga Yousif is a Sudanese MSc student in Computer Engineering. Her research interests lie at the intersection of machine learning and neuroscience. After earning her bachelor’s degree in Software Engineering, she worked in the software development industry for over five years as a Python/ERP developer. Currently, she is pursuing her master’s degree in Computer Engineering. For her thesis, she is working with Prof. Abdullah Bulbul on assessing cognitive load in virtual reality (VR) cognitive training games using machine learning
+Tuga Yousif is a Sudanese MSc student in Computer Engineering. Her research interests lie at the intersection of machine learning and neuroscience. After earning her bachelor’s degree in Software Engineering, she worked in the software development industry for over five years as a Python/ERP developer. Currently, she is pursuing her master’s degree in Computer Engineering. 
 
 
 <!-- A data-driven personal website

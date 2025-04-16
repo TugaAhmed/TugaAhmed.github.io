@@ -84,7 +84,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   presentations:
-    title: 'Presentations'
+    title: 'Conferences Presentations'
   
 
 # Site Settings
@@ -221,7 +221,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: :path/
+    # permalink: :path/
   portfolio:
     output: true
     permalink: /:collection/:path/

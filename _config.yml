@@ -30,6 +30,7 @@ author:
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "tugakariem@gmail.com" 
+  CV            : "tugakariem@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -84,7 +85,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   presentations:
-    title: 'Conferences Presentations'
+    title: 'Conference Presentations'
   
 
 # Site Settings

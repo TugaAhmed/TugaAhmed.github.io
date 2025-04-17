@@ -21,7 +21,7 @@ Awards
 
 
 
-Courses
+Summer Schools and Courses
 ======
 
 
@@ -30,4 +30,8 @@ Languages
 
 
 Memberships
+======
+
+
+Volunteering
 ======

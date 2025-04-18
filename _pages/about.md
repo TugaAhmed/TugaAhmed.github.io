@@ -29,11 +29,13 @@ Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong pass
 ## Recent News
 
 ### 2025
-<div style="border-left: 2px solid #ccc; height: 100px; margin: 10px;"></div>
+---
+***
 
 ### 2024
-<div style="border-left: 2px solid #ccc; height: 100px; margin: 10px;"></div>
-
+---
+***
 
 ### 2023
-<div style="border-left: 2px solid #ccc; height: 100px; margin: 10px;"></div>
+---
+***

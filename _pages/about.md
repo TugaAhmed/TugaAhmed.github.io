@@ -11,8 +11,8 @@ Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong pass
 
 
 
-Education
-======
+## Education
+
  🎓 **Master’s degree in Computer Engineering**  
  *Ankara Yıldırım Beyazıt University - Turkey* |  GPA: 4.0/4.0
  
@@ -20,8 +20,7 @@ Education
  *Al-Neelain University - Sudan* | CGPA 90.15 / 100
 
 
-Work Experience
-======
+## Work Experience
 
  **Max Planck Institute for Biological Cybernetics - Germany**
  *Research Intern |  July, 2023 - September , 2023*

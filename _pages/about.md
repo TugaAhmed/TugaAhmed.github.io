@@ -44,67 +44,22 @@ Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong pass
 
 ### 2025
 ---
-
-<div style="display: flex; margin-bottom: 10px;">
-  <div style="width: 100px; font-weight: bold;">2024-04-01</div>
-  <div>Attended the NeuroBridges summer school on decision-making in France.</div>
-</div>
-
-<div style="display: flex; margin-bottom: 10px;">
-  <div style="width: 100px; font-weight: bold;">2024-02-15</div>
-  <div>Presented my VR cognitive load research at the AI in Health conference.</div>
-</div>
+- **2025-04-01**  Started a research assistantship.
+- **2025-04-02**   Continued working on Markdown formatting.
+- **2025-04-02**    Continued working on Markdown formatting.
 
 ### 2024
 ---
 
-| 2024-04-01 | Attended the NeuroBridges summer school on decision-making in France. |
-| 2024-02-15 | Presented my VR cognitive load research at the AI in Health conference.|
-| 2023-12-05 | Completed a research internship at the Max Planck Institute.           |
 
 
 
 ### 2023
 ---
 
-|--------------|--------------------------------------------------------------------------|
-| 2025-04-01    | Started a research assistantship in computational neuroscience.         |
-| 2025-02-10    | Gave a talk on cognitive modeling in VR at the Science & Tech Summit.   |
-| 2024-12-20    | Published my first co-authored paper in *Neurocomputing*.               |
-
 
 ### 2022
 ---
 
-- **2025-04-01** – Started a research assistantship in computational neuroscience.
-- **2025-02-10** – Gave a talk on cognitive modeling in VR at the Science & Tech Summit.
-- **2024-12-20** – Published my first co-authored paper in *Neurocomputing*.
 
 
-### 2021
----
-
-<ul style="list-style: none; padding-left: 0;">
-  <li style="margin-bottom: 15px;">
-    <span style="font-weight: bold; color: #566883;">2025-04-01</span> – Started a research assistantship in computational neuroscience.
-  </li>
-  <li style="margin-bottom: 15px;">
-    <span style="font-weight: bold; color: #566883;">2025-02-10</span> – Gave a talk on cognitive modeling in VR at the Science & Tech Summit.
-  </li>
-  <li style="margin-bottom: 15px;">
-    <span style="font-weight: bold; color: #566883;">2024-12-20</span> – Published my first co-authored paper in <i>Neurocomputing</i>.
-  </li>
-</ul>
-
-
-### 2020
----
-
-🟡 **2025-04-01**  
-Started a research assistantship in computational neuroscience.  
-
-🟢 **2025-02-10**  
-Presented VR cognitive modeling research at Science & Tech Summit.  
-
-🔵 **2024-12-20**  
-Published co-authored paper in *Neurocomputing*.  

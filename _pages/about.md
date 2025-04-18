@@ -44,12 +44,19 @@ Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong pass
 
 ### 2025
 ---
-***
+| 2024-04-01 | Attended the NeuroBridges summer school on decision-making in France. |
+| 2024-02-15 | Presented my VR cognitive load research at the AI in Health conference.|
+| 2023-12-05 | Completed a research internship at the Max Planck Institute.           |
+
 
 ### 2024
 ---
-***
+
+| 2024-04-01 | Attended the NeuroBridges summer school on decision-making in France. |
+| 2024-02-15 | Presented my VR cognitive load research at the AI in Health conference.|
+| 2023-12-05 | Completed a research internship at the Max Planck Institute.           |
+
+
 
 ### 2023
 ---
-***

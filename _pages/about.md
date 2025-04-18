@@ -26,6 +26,20 @@ Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong pass
 * Computational Neurosceince 
 * Virtual Reality 
 
+## Work Experience
+
+ **Max Planck Institute for Biological Cybernetics - Germany**
+ *Research Intern |  July, 2023 - September , 2023*
+ 
+ **Quantum Space  ,  Remote**  
+ *Senior Software Developer | March, 2021 - September ,2022*
+
+ **Digital Wave Solutions  ,  Sudan**  
+ *Senior Software Developer |   July,2020 - July,2021*
+
+ **IATL International  ,   Sudan**  
+ *Senior Software Developer - Technical Team Lead|   September 2019 - September 2020*
+
 ## Recent News
 
 ### 2025

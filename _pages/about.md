@@ -40,24 +40,39 @@ Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong pass
  **IATL International  ,   Sudan**  
  *Senior Software Developer - Technical Team Lead|   September 2019 - September 2020*
 
+
+
+
+
+
 ## Recent News
 
-### <span style="color:rgb(66, 140, 218);">2025</>
+### <span style="color:rgb(66, 140, 218);">2025
 ---
 - **2025-03-19** <span style="padding-left: 10px;">
-My submission, "Understanding Cognitive Load in Virtual Reality (VR) Environments: A Machine Learning Approach", has been accepted for presentation at the 7th International Conference Digital Culture & AudioVisual Challenges (DCAC 2025)
+My submission, "Understanding Cognitive Load in Virtual Reality (VR) Environments: A Machine Learning Approach", has been accepted for presentation at the [7th International Conference Digital Culture & AudioVisual Challenges (DCAC 2025)](https://avarts.ionio.gr/dcac/2025/)
 - **2025-02-01**  <span style="padding-left: 10px;">
 Successfully completed the 2025 Simons Computational Neuroscience Imbizo Summer School
 
 
-### <span style="color:rgb(66, 140, 218);">2024</>
+
+
+
+
+
+
+
+
+
+
+### <span style="color:rgb(66, 140, 218);">2024
 ---
 - **2024-12-20**  <span style="padding-left: 10px;">
 Completed the Africa to Silicon Valley (A2SV) remote Software Engineering Training program.
 
 
 
-### <span style="color:rgb(66, 140, 218);">2023</>
+### <span style="color:rgb(66, 140, 218);">2023
 ---
 - **2023-07-20**  <span style="padding-left: 10px;">
 I am pleased to be starting a position as a Research Intern at the Max Planck Institute for Biological Cybernetics, Germany, where I will be contributing to the development and implementation of decision-making models using Reinforcement Learning
@@ -66,11 +81,10 @@ I am pleased to be starting a position as a Research Intern at the Max Planck In
 I have successfully received my Turkish Language Certificate at the C1 proficiency level as part of the Türkiye Scholarships International Turkish Scholars Language Program
 
 
-### <span style="color:rgb(66, 140, 218);">2022</>
+### <span style="color:rgb(66, 140, 218);">2022
 ---
 - **2022-09-16** 
-I am thrilled to announce that my abstract titled "Motor Imagery ECoG Signal Classification With Optimal Selection Of Minimum Electrodes" has been accepted for presentation at the Women in Machine Learning (WiML) Workshop 2022, co-located with NeurIPS conference
+I'm thrilled to announce that my abstract titled ["Motor Imagery ECoG Signal Classification With Optimal Selection Of Minimum Electrodes"](https://neurips.cc/virtual/2022/57491) has been accepted for presentation at the Women in Machine Learning (WiML) Workshop 2022, co-located with NeurIPS conference
 
 - **2022-08-11**  <span style="padding-left: 10px;">
-I am honored to announce that I have been awarded a Türkiye Scholarship sponsored by the Presidency for Turks Abroad and Related Communities to study in Turke
-
+I'm honored to announce that I've been awarded a Türkiye Scholarship for graduate studies in Turkey (2023-2025), with an acceptance rate of 5-10%.

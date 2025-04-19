@@ -42,7 +42,7 @@ Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong pass
 
 ## Recent News
 
-### 2025
+### <span style="color:rgb(66, 140, 218);">2025</>
 ---
 - **2025-03-19** <span style="padding-left: 10px;">
 My submission, "Understanding Cognitive Load in Virtual Reality (VR) Environments: A Machine Learning Approach", has been accepted for presentation at the 7th International Conference Digital Culture & AudioVisual Challenges (DCAC 2025)
@@ -50,14 +50,14 @@ My submission, "Understanding Cognitive Load in Virtual Reality (VR) Environment
 Successfully completed the 2025 Simons Computational Neuroscience Imbizo Summer School
 
 
-### 2024
+### <span style="color:rgb(66, 140, 218);">2024</>
 ---
 - **2024-12-20**  <span style="padding-left: 10px;">
 Completed the Africa to Silicon Valley (A2SV) remote Software Engineering Training program.
 
 
 
-### 2023
+### <span style="color:rgb(66, 140, 218);">2023</>
 ---
 - **2023-07-20**  <span style="padding-left: 10px;">
 I am pleased to be starting a position as a Research Intern at the Max Planck Institute for Biological Cybernetics, Germany, where I will be contributing to the development and implementation of decision-making models using Reinforcement Learning
@@ -66,7 +66,7 @@ I am pleased to be starting a position as a Research Intern at the Max Planck In
 I have successfully received my Turkish Language Certificate at the C1 proficiency level as part of the Türkiye Scholarships International Turkish Scholars Language Program
 
 
-### 2022
+### <span style="color:rgb(66, 140, 218);">2022</>
 ---
 - **2022-09-16** 
 I am thrilled to announce that my abstract titled "Motor Imagery ECoG Signal Classification With Optimal Selection Of Minimum Electrodes" has been accepted for presentation at the Women in Machine Learning (WiML) Workshop 2022, co-located with NeurIPS conference

@@ -60,7 +60,6 @@ Completed the Africa to Silicon Valley (A2SV) remote Software Engineering Traini
 ### 2023
 ---
 - **2023-07-20**  <span style="padding-left: 10px;">
-
 I am pleased to be starting a position as a Research Intern at the Max Planck Institute for Biological Cybernetics, Germany, where I will be contributing to the development and implementation of decision-making models using Reinforcement Learning
 
 - **2023-06-10**  <span style="padding-left: 10px;">
@@ -69,6 +68,8 @@ I have successfully received my Turkish Language Certificate at the C1 proficien
 
 ### 2022
 ---
+- **2022-09-16** 
+I am thrilled to announce that my abstract titled "Motor Imagery ECoG Signal Classification With Optimal Selection Of Minimum Electrodes" has been accepted for presentation at the Women in Machine Learning (WiML) Workshop 2022, co-located with NeurIPS conference
 
 - **2022-08-11**  <span style="padding-left: 10px;">
 I am honored to announce that I have been awarded a Türkiye Scholarship sponsored by the Presidency for Turks Abroad and Related Communities to study in Turke

@@ -2,7 +2,7 @@
 title: "Understanding  Cognitive Load in Virtual Reality (VR) Environments: A Machine Learning Approach"
 collection: publications
 category: presentations
-permalink: /publication/motor_imagery
+permalink: /publication/cognitive_load
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-5-9 
 venue: '7th International Digital Culture & AudioVisual Challenges Conference - Corfu, Greece' 

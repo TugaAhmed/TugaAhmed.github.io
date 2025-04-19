@@ -17,8 +17,8 @@ main:
   - title: "Projects"
     url: /projects/    
     
-  - title: "The Journey So Far"
-    url: /journey/
+  # - title: "The Journey So Far"
+  #   url: /journey/
         
   # - title: "Blog Posts"
   #   url: /year-archive/

@@ -45,14 +45,14 @@ Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong pass
 
 
 
-## Recent News
+## The Journey So Far
 
 ### <span style="color:rgb(66, 140, 218);">2025
 ---
 - **2025-03-19** <span style="padding-left: 10px;">
-My submission, "Understanding Cognitive Load in Virtual Reality (VR) Environments: A Machine Learning Approach", has been accepted for presentation at the [7th International Conference Digital Culture & AudioVisual Challenges (DCAC 2025)](https://avarts.ionio.gr/dcac/2025/)
+My submission, "Understanding Cognitive Load in Virtual Reality (VR) Environments: A Machine Learning Approach", has been accepted for presentation at the [7th International Conference Digital Culture & AudioVisual Challenges (DCAC 2025)](https://avarts.ionio.gr/dcac/2025/).
 - **2025-02-01**  <span style="padding-left: 10px;">
-Successfully completed the 2025 Simons Computational Neuroscience Imbizo Summer School
+Successfully completed the 2025 [Simons Computational Neuroscience Imbizo Summer School](https://imbizo.africa/archive/2025/).
 
 
 
@@ -75,16 +75,16 @@ Completed the Africa to Silicon Valley (A2SV) remote Software Engineering Traini
 ### <span style="color:rgb(66, 140, 218);">2023
 ---
 - **2023-07-20**  <span style="padding-left: 10px;">
-I am pleased to be starting a position as a Research Intern at the Max Planck Institute for Biological Cybernetics, Germany, where I will be contributing to the development and implementation of decision-making models using Reinforcement Learning
+I am pleased to be starting a position as a [Research Intern at the Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/person/129429/2549), Germany, where I will be contributing to the development and implementation of decision-making models using Reinforcement Learning.
 
 - **2023-06-10**  <span style="padding-left: 10px;">
-I have successfully received my Turkish Language Certificate at the C1 proficiency level as part of the Türkiye Scholarships International Turkish Scholars Language Program
+I have successfully received my Turkish Language Certificate at the C1 proficiency level as part of the Türkiye Scholarships International Turkish Scholars Language Program.
 
 
 ### <span style="color:rgb(66, 140, 218);">2022
 ---
 - **2022-09-16** 
-I'm thrilled to announce that my abstract titled ["Motor Imagery ECoG Signal Classification With Optimal Selection Of Minimum Electrodes"](https://neurips.cc/virtual/2022/57491) has been accepted for presentation at the Women in Machine Learning (WiML) Workshop 2022, co-located with NeurIPS conference
+I'm thrilled to announce that my abstract titled ["Motor Imagery ECoG Signal Classification With Optimal Selection Of Minimum Electrodes"](https://neurips.cc/virtual/2022/57491) has been accepted for presentation at the Women in Machine Learning (WiML) Workshop 2022, co-located with [NeurIPS conference](https://neurips.cc/Conferences/2022).
 
 - **2022-08-11**  <span style="padding-left: 10px;">
-I'm honored to announce that I've been awarded a Türkiye Scholarship for graduate studies in Turkey (2023-2025), with an acceptance rate of 5-10%.
+I'm honored to announce that I've been awarded a [Türkiye Scholarship](https://www.turkiyeburslari.gov.tr/) for graduate studies in Turkey (2023-2025), with an acceptance rate of 5-10%.

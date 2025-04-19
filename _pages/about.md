@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Tuga Yousif is a Sudanese MSc student in Computer Engineering with a strong passion for computational neuroscience and AI. Her research interests lie at the intersection of machine learning and neuroscience After earning her bachelor’s degree in Software Engineering, she worked in the software development industry for over five years as a Python/ERP developer. Currently, she is pursuing her master’s degree in Computer Engineering. 
+Tuga Yousif is a Sudanese Software Engineer with a strong passion for computational neuroscience and AI. Her research interests lie at the intersection of machine learning and neuroscience. After earning her bachelor’s degree in Software Engineering, she worked in the software development industry for over five years as a Python/ERP developer. Currently, she is pursuing her master’s degree in Computer Engineering. 
 
 
 

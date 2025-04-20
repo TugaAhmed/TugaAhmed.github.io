@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Tuga Yousif is a Sudanese Software Engineer with a strong passion for computational neuroscience and AI. Her research interests lie at the intersection of machine learning and neuroscience. After earning her bachelor’s degree in Software Engineering, she worked in the software development industry for over five years as a Python/ERP developer. Currently, she is pursuing her master’s degree in Computer Engineering. 
+Tuga Yousif is a Sudanese Software Engineer with a strong passion for computational neuroscience and AI. Her research interests lie at the intersection of machine learning and neuroscience. Currently, she is pursuing her master’s degree in Computer Engineering at [Ankara Yıldırım Beyazıt University](https://aybu.edu.tr/BilgisayarMuh/en) in Turkey. For her thesis, she is working on assessing cognitive load in virtual reality (VR) cognitive training games using machine learning, under the supervision of [Prof. Abdullah Bulbul](https://avesis.aybu.edu.tr/abulbul).
+
+
+Tuga earned her bachelor’s degree in Software Engineering at [Al-Neelain University](https://www.neelain.edu.sd/college/Computer) in Sudan, then she worked in the software development industry for over five years as a Python/ERP developer. Tuga is passionate about advancing computational neuroscience in Africa, believing in its significant growth potential. She aims to inspire more African researchers and contribute to global developments in the field
 
 
 

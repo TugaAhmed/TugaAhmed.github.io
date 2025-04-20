@@ -25,7 +25,7 @@ redirect_from:
 
 
 
-
+<!-- 
 ## Summer Schools and Courses
 ---
 * Computational Neuroscience Imbizo Summer School 2025 - *Cape Town ,South Africa*
@@ -48,4 +48,4 @@ redirect_from:
 
 ## Volunteering
 ---
-* Head of the Organizing Committee IndabaX Sudan 2019 AI Conference
+* Head of the Organizing Committee IndabaX Sudan 2019 AI Conference -->

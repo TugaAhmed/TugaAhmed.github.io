@@ -13,6 +13,10 @@ redirect_from:
 
 ## Awards
 ---
+
+* **First Place – BR41N.IO Hackathon - g.tec medical engineering**  
+  * The BCI & Neurotech Spring School - 2024 
+
 * **Graduate School Scholarships - Turkey**  
   * Turkish scholarship program for international students 2023 - 2025
   * Acceptance rate: 5-10%  

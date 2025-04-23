@@ -14,6 +14,11 @@ Tuga earned her bachelor’s degree in Software Engineering at [Al-Neelain Unive
 
 
 
+<!-- old about me 
+About Me
+Tuga Yousif is a Sudanese Software Engineer with a strong passion for computational neuroscience and AI. Her research interests lie at the intersection of machine learning and neuroscience. After earning her bachelor’s degree in Software Engineering, she worked in the software development industry for over five years as a Python/ERP developer. Currently, she is pursuing her master’s degree in Computer Engineering. -->
+
+
 ## Education
 
  🎓 **Master’s degree in Computer Engineering**  
@@ -72,6 +77,10 @@ Successfully completed the 2025 [Simons Computational Neuroscience Imbizo Summer
 ---
 - **2024-12-20**  <span style="padding-left: 10px;">
 Completed the Africa to Silicon Valley (A2SV) remote Software Engineering Training program.
+
+
+- **2024-03-20**  <span style="padding-left: 10px;">
+I'm thrilled to share that our team [ECoGers](https://media.licdn.com/dms/image/v2/D5622AQH3uQvEexno4A/feedshare-shrink_800/feedshare-shrink_800/0/1714577443095?e=1748476800&v=beta&t=AQyDJcU_1-Cdfi5uKAup5toaBoT990k3Dyl6-PpoDG8) won first place in the [BR41N.IO hackathon](https://www.br41n.io/Spring-School-2024) during The BCI & Neurotech Spring School 2024
 
 
 

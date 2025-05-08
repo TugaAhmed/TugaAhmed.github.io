@@ -11,7 +11,7 @@ venue: '7th International Digital Culture & AudioVisual Challenges Conference - 
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-<a href="https://avarts.ionio.gr/dcac/2025/en/dates/" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: #566883; color: white; text-decoration: none; border-radius: 4px;">LINK</a>
+<a href="https://avarts.ionio.gr/dcac/2025/en/presentations/1772/" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: #566883; color: white; text-decoration: none; border-radius: 4px;">LINK</a>
 
 **Abstract**  
 *Introduction* :  

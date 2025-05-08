@@ -52,7 +52,7 @@ Tuga Yousif is a Sudanese Software Engineer with a strong passion for computatio
 
 
 
-
+<!-- 
 ## The Journey So Far
 
 ### <span style="color:rgb(66, 140, 218);">2025
@@ -99,4 +99,4 @@ I have successfully received my Turkish Language Certificate at the C1 proficien
 I'm thrilled to announce that my abstract titled ["Motor Imagery ECoG Signal Classification With Optimal Selection Of Minimum Electrodes"](https://neurips.cc/virtual/2022/57491) has been accepted for presentation at the Women in Machine Learning (WiML) Workshop 2022, co-located with [NeurIPS conference](https://neurips.cc/Conferences/2022).
 
 - **2022-08-11**  <span style="padding-left: 10px;">
-I'm honored to announce that I've been awarded a [Türkiye Scholarship](https://www.turkiyeburslari.gov.tr/) for graduate studies in Turkey (2023-2025), with an acceptance rate of 5-10%.
+I'm honored to announce that I've been awarded a [Türkiye Scholarship](https://www.turkiyeburslari.gov.tr/) for graduate studies in Turkey (2023-2025), with an acceptance rate of 5-10%. -->

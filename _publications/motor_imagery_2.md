@@ -5,7 +5,7 @@ category: presentations
 permalink: /publication/motor_imagery_classification
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-11-28 
-venue: 'WiML Workshop @ NeurIPS 2022'  
+venue: 'WiML Workshop @ NeurIPS'  
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

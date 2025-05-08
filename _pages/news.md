@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "News"
 permalink: /news/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-
-## News
 
 ### <span style="color:rgb(66, 140, 218);">2025
 ---

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About"
+title                    : "Tuga Yousif"
 title_separator          : "-"
 name                     : &name "Tuga Yousif"
 description              : &description "personal description"

@@ -11,9 +11,8 @@ venue: 'Sciencematch'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-<a href="https://zenodo.org/badge/DOI/10.5281/zenodo.15126557.svg" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: #566883; color: white; text-decoration: none; border-radius: 4px;">LINK</a>
+<a href="https://zenodo.org/records/15126557" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: #566883; color: white; text-decoration: none; border-radius: 4px;">LINK</a>
 
-<a href="https://doi.org/10.57736/nmc-ae69-494c" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: #566883; color: white; text-decoration: none; border-radius: 4px;">DOI</a>
 
 
 **Abstract**  

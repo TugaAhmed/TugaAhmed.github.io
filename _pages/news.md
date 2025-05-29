@@ -9,6 +9,12 @@ redirect_from:
 
 ### <span style="color:rgb(66, 140, 218);">2025
 ---
+- **2025-05-26** <span style="padding-left: 10px;">
+Excited to announce that my micropublication, "Age-Related Modulation of Decision-Making Strategies and Functional Connectivity," is now published on [Zenodo](https://zenodo.org/records/15126557) through [ScienceMatch](https://zenodo.org/communities/sciencematch/records?q=&l=list&p=1&s=10&sort=newest) by [Neuromatch](https://neuromatch.io/)!
+
+- **2025-05-25** <span style="padding-left: 10px;">
+Excited to have completed the Neuromatch Impact Scholars Program and received a Certificate of Appreciation for my research "Age-Related Modulation of Decision-Making Strategies And Functional Connectivity".
+
 - **2025-03-19** <span style="padding-left: 10px;">
 My submission, "Understanding Cognitive Load in Virtual Reality (VR) Environments: A Machine Learning Approach", has been accepted for presentation at the [7th International Conference Digital Culture & AudioVisual Challenges (DCAC 2025)](https://avarts.ionio.gr/dcac/2025/).
 - **2025-02-01**  <span style="padding-left: 10px;">

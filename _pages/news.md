@@ -25,8 +25,6 @@ Successfully completed the 2025 [Simons Computational Neuroscience Imbizo Summer
 
 
 
-
-
 ### <span style="color:rgb(66, 140, 218);">2024
 ---
 - **2024-12-20**  <span style="padding-left: 10px;">

@@ -36,25 +36,32 @@ Tuga Yousif is a Sudanese Software Engineer with a strong passion for computatio
 
 ## Work Experience
 
-* **Center of Excellence in Information Assurance (CoEIA) – Saudi Arabia**
+* **Center of Excellence in Information Assurance (CoEIA) – Saudi Arabia**  
+
   *AI/ML Engineer | Oct 2026 – Present*
 
-* **Imperial College London – Remote**
+* **Imperial College London – Remote**  
+
   *Research Intern | Mar 2026 – Sept 2026*
 
-* **Ankara Yıldırım Beyazıt University – Turkey**
+* **Ankara Yıldırım Beyazıt University – Turkey**  
+
   *MSc Researcher | Sept 2024 – Sept 2025*
 
-* **Max Planck Institute for Biological Cybernetics – Germany**
+* **Max Planck Institute for Biological Cybernetics – Germany**  
+
   *Research Intern | Jul 2023 – Oct 2023*
 
-* **Quantum Space – Sudan**
+* **Quantum Space – Sudan**  
+
   *Software Engineer | Mar 2021 – Oct 2022*
 
-* **Digital Wave Solutions – Sudan**
+* **Digital Wave Solutions – Sudan**  
+
   *Software Engineer | Jul 2020 – Jul 2021*
 
-* **IATL International – Sudan**
+* **IATL International – Sudan**  
+
   *Technical Team Lead | Sept 2019 – Sept 2020*
 
 

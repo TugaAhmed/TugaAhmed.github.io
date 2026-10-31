@@ -19,7 +19,7 @@ redirect_from:
 
 * **Graduate School Scholarships - Turkey**  
   * Turkish scholarship program for international students 2023 - 2025
-  * Acceptance rate: 5-10%  
+  * Acceptance rate: 5%  
 
 * **Travel Grant - Black In AI**  
   * NeurIPS 2018 - *Montreal, Canada*

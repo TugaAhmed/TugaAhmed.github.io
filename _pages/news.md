@@ -12,7 +12,7 @@ redirect_from:
 
 - **October 2026** — Started a new position as an **AI/ML Engineer** at the [Center of Excellence in Information Assurance (CoEIA)](https://coeia.edu.sa/en/).
 
-- **Sept 2026** — Our paper, [GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation](https://aclanthology.org/2026.emnlp-main.1762.pdf), was accepted at **EMNLP 2026**.
+- **Sept 2026** — Our paper, [GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation](https://aclanthology.org/2026.emnlp-main.1762/), was accepted at **EMNLP 2026**.
 
 - **September 2026** — Successfully completed the [*Math for Brain Data: Mathematical Foundations for Neurosystems*](https://drive.google.com/file/d/1iPhLXHeLQ0kWe-gPbp3w3yaT7YI-NKkH/view?usp=sharing) program by the African Computational Neuroscience Educational Initiative (ACNEI).
 

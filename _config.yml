@@ -25,12 +25,12 @@ author:
   avatar           : "profile.png"
   name             : "Tuga Yousif"
   pronouns         : # example: "she/her"  
-  bio              : "Software Developer | Machine Learning and VR Practitioner | Computational Neuroscience Enthusiast"
-  location         : "Ankara,Turkey"
+  bio              : "Full-Stack AI/ML Engineer | Computational Neuroscience Enthusiast"
+  location         : "Al-Khobar,Saudi Arabia"
   # employer         : ""
   uri              : # URL
   email            : "tugakariem@gmail.com" 
-  cv               : "https://drive.google.com/file/d/13fo8AUd74hbSYHbAqHCMwZOabXEtA45s/view?usp=sharing" 
+  # cv               : "https://drive.google.com/file/d/13fo8AUd74hbSYHbAqHCMwZOabXEtA45s/view?usp=sharing" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Tuga Yousif is a Sudanese Software Engineer with a strong passion for computational neuroscience and AI. Her research interests lie at the intersection of machine learning and neuroscience. Currently, she is pursuing her master’s degree in Computer Engineering at [Ankara Yıldırım Beyazıt University](https://aybu.edu.tr/BilgisayarMuh/en) in Turkey. For her thesis, she is working on assessing cognitive load in virtual reality (VR) cognitive training games using machine learning, under the supervision of [Prof. Abdullah Bulbul](https://avesis.aybu.edu.tr/abulbul).
+Tuga Yousif is a Sudanese AI/ML Engineer with a strong passion for Computational Neuroscience. Her research interests lie at the intersection of AI and Neuroscience. She recently graduated with a master’s degree in AI-focused Computer Engineering from [Ankara Yıldırım Beyazıt University](https://aybu.edu.tr/BilgisayarMuh/en) in Turkey. Her thesis focused on assessing intrinsic cognitive load in virtual reality (VR) environments using gaze behavior and machine learning, under the supervision of [Prof. Abdullah Bülbül](https://avesis.aybu.edu.tr/abulbul).
 
 
-Tuga earned her bachelor’s degree in Software Engineering at [Al-Neelain University](https://www.neelain.edu.sd/college/Computer) in Sudan, then she worked in the software development industry for over five years as a Python/ERP developer. Tuga is passionate about advancing computational neuroscience in Africa, believing in its significant growth potential. She aims to inspire more African researchers and contribute to global developments in the field
+Tuga earned her bachelor’s degree in Software Engineering at [Al-Neelain University](https://www.neelain.edu.sd/college/Computer) in Sudan, then she worked in the software development industry as a Python/ERP developer. Tuga is passionate about advancing computational neuroscience in Africa, believing in its significant growth potential. She aims to inspire more African researchers and contribute to global developments in the field
 
 
 
@@ -36,17 +36,27 @@ Tuga Yousif is a Sudanese Software Engineer with a strong passion for computatio
 
 ## Work Experience
 
- * **Max Planck Institute for Biological Cybernetics - Germany**  
- *Research Intern |  July, 2023 - September , 2023*
- 
- * **Quantum Space  ,  Remote**  
- *Senior Software Developer | March, 2021 - September ,2022*
+* **Center of Excellence in Information Assurance (CoEIA) – Saudi Arabia**
+  *AI/ML Engineer | Oct 2026 – Present*
 
- * **Digital Wave Solutions  ,  Sudan**  
- *Senior Software Developer |   July,2020 - July,2021*
+* **Imperial College London – Remote**
+  *Research Intern | Mar 2026 – Sept 2026*
 
- * **IATL International  ,   Sudan**  
- *Senior Software Developer - Technical Team Lead|   September 2019 - September 2020*
+* **Ankara Yıldırım Beyazıt University – Turkey**
+  *MSc Researcher | Sept 2024 – Sept 2025*
+
+* **Max Planck Institute for Biological Cybernetics – Germany**
+  *Research Intern | Jul 2023 – Oct 2023*
+
+* **Quantum Space – Sudan**
+  *Software Engineer | Mar 2021 – Oct 2022*
+
+* **Digital Wave Solutions – Sudan**
+  *Software Engineer | Jul 2020 – Jul 2021*
+
+* **IATL International – Sudan**
+  *Technical Team Lead | Sept 2019 – Sept 2020*
+
 
 
 

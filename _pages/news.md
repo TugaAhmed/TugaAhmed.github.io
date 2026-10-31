@@ -38,7 +38,7 @@ redirect_from:
 
 - **December 2024** — Completed the **Africa to Silicon Valley (A2SV)** remote Software Engineering Training Program.
 
-- **March 2024** — Won first place with Team [ECoGers](https://docs.google.com/presentation/d/1OLEie59r_vDkW5d5LXTuUmds2KPEnSVv/edit?usp=sharing&ouid=104782751719811436159&rtpof=true&sd=true) at the [BR41N.IO Hackathon](https://www.br41n.io/Spring-School-2024), held during the BCI & Neurotech Spring School 2024.
+- **March 2024** — Won first place with Team [ECoGers](https://drive.google.com/file/d/1FYsWDzfnjxNugI0ipKgff9tHTgNXF_xi/view?usp=sharing) at the [BR41N.IO Hackathon](https://www.br41n.io/Spring-School-2024), held during the BCI & Neurotech Spring School 2024.
 
 ### 2023
 

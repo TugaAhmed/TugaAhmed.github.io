@@ -12,19 +12,23 @@ redirect_from:
 
 - **October 2026** — Started a new position as an **AI/ML Engineer** at the [Center of Excellence in Information Assurance (CoEIA)](https://coeia.edu.sa/en/).
 
-- **August 2026** — Our paper, [GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation](https://aclanthology.org/2026.emnlp-main.1762.pdf), was accepted at **EMNLP 2026**.
+- **Sept 2026** — Our paper, [GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation](https://aclanthology.org/2026.emnlp-main.1762.pdf), was accepted at **EMNLP 2026**.
 
-- **August 2026** — Successfully passed the **AWS Certified Cloud Practitioner (CLF-C02)** and **AWS Certified AI Practitioner (AIF-C01)** exams.
+- **September 2026** — Successfully completed the [*Math for Brain Data: Mathematical Foundations for Neurosystems*](https://drive.google.com/file/d/1iPhLXHeLQ0kWe-gPbp3w3yaT7YI-NKkH/view?usp=sharing) program by the African Computational Neuroscience Educational Initiative (ACNEI).
+
+- **August 2026** — Successfully passed the [**AWS Certified Cloud Practitioner (CLF-C02)**](https://www.credly.com/badges/94545845-c77f-4169-820b-aa33a7b42134/public_url) and [**AWS Certified AI Practitioner (AIF-C01)**](https://www.credly.com/badges/3bb96a64-d68c-4e55-9963-8c89b3a8d7c8/public_url) exams.
 
 - **July 2026** — Served as a teaching assistant for the *Introduction to Computational Neuroscience* Summer School organized by [Arabs in Neuroscience](https://arabsinneuroscience.org/).
 
-- **April 2026** — Successfully completed the **Graph Neural Networks (GNNs) for Rising Stars** program led by Associate Professor Islem Rekik at Imperial College London.
+- **March 2026** — Successfully completed and passed the assessment test on [**Graph Neural Networks (GNNs)**](https://drive.google.com/file/d/1TU7v6T0ycmgHbRWVp_4ttzuTMrLE3MKE/view?usp=sharing) **for Rising Stars** program led by Associate Professor Islem Rekik at Imperial College London.
 
 ### 2025
 
-- **May 2025** — Published my micropublication, [Age-Related Modulation of Decision-Making Strategies and Functional Connectivity](https://zenodo.org/records/15126557), through [ScienceMatch](https://zenodo.org/communities/sciencematch/records?q=&l=list&p=1&s=10&sort=newest) by [Neuromatch](https://neuromatch.io/).
+- **September 2025** — Successfully defended my MSc thesis, *Assessing Intrinsic Cognitive Load in Virtual Reality Using Gaze Behavior and Machine Learning*.
 
-- **May 2025** — Completed the **Neuromatch Impact Scholars Program** and received a Certificate of Appreciation for my research.
+- **May 2025** — Published a micropublication, [Age-Related Modulation of Decision-Making Strategies and Functional Connectivity](https://zenodo.org/records/15126557), through [ScienceMatch](https://zenodo.org/communities/sciencematch/records?q=&l=list&p=1&s=10&sort=newest) by [Neuromatch](https://neuromatch.io/).
+
+- **May 2025** — Completed the [**Neuromatch Impact Scholars Program**](https://drive.google.com/file/d/1ObG9BaGqmtYKyGYV2GFYLSKdZc2GpeRf/view?usp=sharing) and received a [**Certificate of Appreciation**](https://drive.google.com/file/d/1jjTSLnENU9yiRhECvN8CjVTciorcccNx/view?usp=sharing) for my research.
 
 - **March 2025** — My work, *Understanding Cognitive Load in Virtual Reality (VR) Environments: A Machine Learning Approach*, was accepted for presentation at the [7th International Conference on Digital Culture & AudioVisual Challenges (DCAC 2025)](https://avarts.ionio.gr/dcac/2025/).
 
@@ -34,7 +38,7 @@ redirect_from:
 
 - **December 2024** — Completed the **Africa to Silicon Valley (A2SV)** remote Software Engineering Training Program.
 
-- **March 2024** — Won first place with Team [ECoGers](https://media.licdn.com/dms/image/v2/D5622AQH3uQvEexno4A/feedshare-shrink_800/feedshare-shrink_800/0/1714577443095?e=1748476800&v=beta&t=AQyDJcU_1-Cdfi5uKAup5toaBoT990k3Dyl6-PpoDG8) at the [BR41N.IO Hackathon](https://www.br41n.io/Spring-School-2024), held during the BCI & Neurotech Spring School 2024.
+- **March 2024** — Won first place with Team [ECoGers](https://docs.google.com/presentation/d/1OLEie59r_vDkW5d5LXTuUmds2KPEnSVv/edit?usp=sharing&ouid=104782751719811436159&rtpof=true&sd=true) at the [BR41N.IO Hackathon](https://www.br41n.io/Spring-School-2024), held during the BCI & Neurotech Spring School 2024.
 
 ### 2023
 
